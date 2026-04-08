@@ -6,8 +6,6 @@ Welcome to **LangChain For Beginners** course by Discrete Horizon.
 
 This repository is the companion to the YouTube playlist located [HERE](TBA).
 
----
-
 ## 🚀 Setup
 
 ### Prerequisites
@@ -40,23 +38,20 @@ Edit the .env file to include the keys below for [Models](#model-providers) and 
 - Optional, Create a [LangSmith](https://smith.langchain.com/) account and API Key.  
 
 ```bash
-# Manual installs for checking: uv
+# Third party keys (only one of them is required)
+OPENAI_API_KEY = 'your_openai_api_key_here'
+ANTHROPIC_API_KEY = 'your_anthropic_api_key_here'
+GOOGLE_API_KEY = 'your_google_api_key_here'
+TAVILY_API_KEY = 'your_tavily_api_key_here'
 
-# Required
-OPENAI_API_KEY='your_openai_api_key_here'
-TAVILY_API_KEY='your_tavily_api_key_here'
-
-# optional, only used in Module1, Lesson 1 once
-ANTHROPIC_API_KEY='your_anthropic_api_key_here'
-GOOGLE_API_KEY='your_google_api_key_here'
-
-# Optional for evaluation and tracing
-LANGSMITH_API_KEY='your_langsmith_api_key_here'
+# Langsmith keys (Optional for evaluation and tracing)
+LANGSMITH_API_KEY = 'your_langsmith_api_key_here'
 # uncomment to set tracing to true when you set up your LangSmith account
-#LANGSMITH_TRACING=true
-LANGSMITH_PROJECT=lca-lc-foundation
+# LANGSMITH_TRACING=true
+LANGSMITH_ENDPOINT=https://api.smith.langchain.com
 # Uncomment the following if you are on the EU instance:
 #LANGSMITH_ENDPOINT=https://eu.api.smith.langchain.com
+LANGSMITH_PROJECT=dh-langchain-for-beginners
 ```
 
 
