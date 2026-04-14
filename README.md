@@ -1,10 +1,26 @@
 # 🔗 LangChain For Beginners
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- [🚀 Setup](#-setup)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Run Notebooks More Info](#run-notebooks-more-info)
+- [📚 Course](#-course)
+  - [Module 1: Intro to Agents](#module-1-intro-to-agents)
+- [📖 Related Resources](#-related-resources)
+  - [Python Virtual Environments](#python-virtual-environments)
+  - [Model Providers](#model-providers)
+  - [Environment Variables](#environment-variables)
+  - [Development Environment](#development-environment)
+- [Acknowledgements](#acknowledgements)
+
 ## Introduction
 
 Welcome to **LangChain For Beginners** course by Discrete Horizon.
 
-This repository is the companion to the YouTube playlist located [HERE](TBA).
+This repository is the companion to the YouTube playlist located [here](TBA).
 
 ## 🚀 Setup
 
