@@ -99,17 +99,15 @@ jupyter lab
 
 </details>
 
-## 📚 Lessons
-TBA
----
+## 📚 Course
 
-### Module 1: Creating an Agent
+### Module 1: Intro to Agents
 
-| Title                 |             Youtube Link              |                                                              Notebooks                                                               |
-|:----------------------|:-------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------:|
-| **Intro & Setup**     | [Watch](https://youtu.be/vDs9qShpV40) |    [1.01](https://github.com/discrete-horizon/langchain-for-beginners/blob/main/notebooks/module-01-intro/1.01-first-chat.ipynb)     |
-| **Creating an Agent** |                  TBA                  | [1.02](https://github.com/discrete-horizon/langchain-for-beginners/blob/main/notebooks/module-01-intro/1.02-creating-an-agent.ipynb) |
-| **Basic Prompting**   |                  TBA                  |                                                                 TBA                                                                  |
+| Title                                     |                  Youtube Link                  |                                                              Notebooks                                                               |
+|:------------------------------------------|:----------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------:|
+| **Intro & Setup**                         |     [Watch](https://youtu.be/vDs9qShpV40)      |    [1.01](https://github.com/discrete-horizon/langchain-for-beginners/blob/main/notebooks/module-01-intro/1.01-first-chat.ipynb)     |
+| **Creating an Agent**                     | [Watch]([Watch](https://youtu.be/WlcRFQWlhd0)) | [1.02](https://github.com/discrete-horizon/langchain-for-beginners/blob/main/notebooks/module-01-intro/1.02-creating-an-agent.ipynb) |
+| **Basic Prompting And Structured Output** |                      TBA                       |                                                                 TBA                                                                  |
  
 
 [//]: # (- Intro & Setup)
