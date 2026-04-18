@@ -1,8 +1,10 @@
 # 🔗 LangChain For Beginners
+Welcome to **LangChain For Beginners** course!
+
+This repository is the companion to the YouTube playlist located [here](TBA).
 
 ## Table of Contents
 
-- [Introduction](#introduction)
 - [🚀 Setup](#-setup)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -15,12 +17,6 @@
   - [Environment Variables](#environment-variables)
   - [Development Environment](#development-environment)
 - [Acknowledgements](#acknowledgements)
-
-## Introduction
-
-Welcome to **LangChain For Beginners** course by Discrete Horizon.
-
-This repository is the companion to the YouTube playlist located [here](TBA).
 
 ## 🚀 Setup
 
@@ -123,7 +119,7 @@ jupyter lab
 |:------------------------------------------|:--------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------:|
 | **Intro & Setup**                         |    [Watch](https://youtu.be/vDs9qShpV40)     |    [1.01](https://github.com/discrete-horizon/langchain-for-beginners/blob/main/notebooks/module-01-intro/1.01-first-chat.ipynb)     |
 | **Creating an Agent**                     |    [Watch](https://youtu.be/WlcRFQWlhd0)     | [1.02](https://github.com/discrete-horizon/langchain-for-beginners/blob/main/notebooks/module-01-intro/1.02-creating-an-agent.ipynb) |
-| **Basic Prompting And Structured Output** |                     TBA                      |                                                                 TBA                                                                  |
+| **Basic Prompting And Structured Output** |                     TBA                      |                                          [1.03](https://github.com/discrete-horizon/langchain-for-beginners/blob/main/notebooks/module-01-intro/1.03-prompting-and-structured-output.ipynb)                                          |
  
 
 [//]: # (- Intro & Setup)
