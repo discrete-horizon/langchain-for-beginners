@@ -21,11 +21,12 @@ This repository is the companion to the YouTube playlist located [here](TBA).
 
 ### Module 1: Intro to Agents
 
-| Title                                     |             Youtube Link              |                                                              Notebooks                                                               |
-|:------------------------------------------|:-------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------:|
-| **Intro & Setup**                         | [Watch](https://youtu.be/vDs9qShpV40) |    [1.01](https://github.com/discrete-horizon/langchain-for-beginners/blob/main/notebooks/module-01-intro/1.01-first-chat.ipynb)     |
-| **Creating an Agent**                     | [Watch](https://youtu.be/WlcRFQWlhd0) | [1.02](https://github.com/discrete-horizon/langchain-for-beginners/blob/main/notebooks/module-01-intro/1.02-creating-an-agent.ipynb) |
-| **Basic Prompting And Structured Output** | [Watch](https://youtu.be/ywuChfLEZuM) |                                          [1.03](https://github.com/discrete-horizon/langchain-for-beginners/blob/main/notebooks/module-01-intro/1.03-prompting-and-structured-output.ipynb)                                          |
+| Title                                       |             Youtube Link              |                                                              Notebooks                                                               |
+|:--------------------------------------------|:-------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------:|
+| **Intro To LangChain & How To Setup It Up** | [Watch](https://youtu.be/vDs9qShpV40) |    [1.01](https://github.com/discrete-horizon/langchain-for-beginners/blob/main/notebooks/module-01-intro/1.01-first-chat.ipynb)     |
+| **Create An Agent In LangChain**            | [Watch](https://youtu.be/WlcRFQWlhd0) | [1.02](https://github.com/discrete-horizon/langchain-for-beginners/blob/main/notebooks/module-01-intro/1.02-creating-an-agent.ipynb) |
+| **Basic Prompting And Structured Output**   | [Watch](https://youtu.be/ywuChfLEZuM) |                                          [1.03](https://github.com/discrete-horizon/langchain-for-beginners/blob/main/notebooks/module-01-intro/1.03-prompting-and-structured-output.ipynb)                                          |
+| **What Are Tools?**                         | [Watch](https://youtu.be/zlcirVQIxRA) | [1.04](https://github.com/discrete-horizon/langchain-for-beginners/blob/main/notebooks/module-01-intro/1.04-tools.ipynb) |
  
 
 [//]: # (- Intro & Setup)
